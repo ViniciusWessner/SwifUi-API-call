@@ -12,8 +12,15 @@ O principal propósito desta API é facilitar a aplicação de conceitos e técn
 
 ## Utilização
 
-Endpoint:
+URL:
 https://raw.githubusercontent.com/ViniciusWessner/SwifUi-API-call/main/courses.json
+
+Endpoint:
+```yaml
+{
+    "name": "Swift",
+    "image": "https://github.com/ViniciusWessner/SwifUi-API-call/blob/main/swift%20.png?raw=true"
+  }
 
 ## Tecnologias Utilizadas
 
