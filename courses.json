@@ -2,16 +2,19 @@
   {
     "name": "Swift",
     "image": "https://github.com/ViniciusWessner/SwifUi-API-call/blob/main/swift%20.png?raw=true"
+    "description": "teste",
   },
   
   {
     "name": "SwiftUI",
     "image": "https://github.com/ViniciusWessner/SwifUi-API-call/blob/main/swiftui-og.png?raw=true",
+    "description": "teste",
   },
 
   {
     "name": "MongoDB",
     "image": "https://github.com/ViniciusWessner/SwifUi-API-call/blob/main/mongo.png?raw=true",
+    "description": "teste",
   },
   
   
