@@ -18,9 +18,10 @@ https://raw.githubusercontent.com/ViniciusWessner/SwifUi-API-call/main/courses.j
 Endpoint:
 ```yaml
 {
-    "name": "Swift",
-    "image": "https://github.com/ViniciusWessner/SwifUi-API-call/blob/main/swift%20.png?raw=true"
+    "name": "String",
+    "image": "String"
   }
+```
 
 ## Tecnologias Utilizadas
 
